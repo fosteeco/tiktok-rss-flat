@@ -7,7 +7,7 @@
 * To get your own instance running
     * Fork this repo 
     * Enable GitHub Pages for your new repo
-    * Change the `ghPagesURL` in postprocessing.py from "https://conoro.github.io/tiktok-rss-flat/" to your URL
+    * Change the `ghPagesURL` in postprocessing.py from "https://fosteeco.github.io/tiktok-rss-flat/" to your URL
     * Add the TikTok usernames that you like to subscriptions.csv
 
 * It's set to run once per hour and generates one RSS XML file per user in the rss output directory.
